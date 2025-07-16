@@ -2,6 +2,10 @@
 
 Bu proje, Unity kullanarak geliştirdiğim ilk oyun olan klasik **Brick Breaker** (Tuğla Kırma) oyunudur. Hem Unity hem de C# ile pratik yapma, temel oyun mekaniği oluşturma ve hata ayıklama konularında kendimi geliştirmek için yaptığım bir çalışmadır.
 
+## 📹 Oynanış Videosu
+
+![Brick Breaker Gameplay](assets/brick-breaker-game-short.gif)
+
 ## 🚀 Özellikler
 
 - 🧱 Renkli tuğlaları kırma mekaniği  
